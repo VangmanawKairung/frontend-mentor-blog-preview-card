@@ -17,7 +17,6 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
     - [Built with](#built-with)
     - [What I learned](#what-i-learned)
     - [Continued development](#continued-development)
-    - [Useful resources](#useful-resources)
   - [Author](#author)
   - [Acknowledgments](#acknowledgments)
 
@@ -31,87 +30,53 @@ Users should be able to:
 
 ### Challenge result
 
+- **10 Sep 2025**
+  - ✅ See hover and focus states for all interactive elements on the page
+
 ### Screenshot
 
-![](./screenshot.jpg)
+- Mobile view
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+  <img src="./screenshots/Mobile-view.png" atl="Blog preview card - Mobile view" width="375px">
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it.
+- Desktop view
 
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
+  <img src="./screenshots/Desktop-view.png" atl="Blog preview card - Desktop view">
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+- Active state view
+
+  <img src="./screenshots/Active-state-view.png" atl="Blog preview card - Active state view">
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Blog Preview Card Challenge using HTML5 and CSS](https://www.frontendmentor.io/solutions/blog-preview-card-challenge-using-html5-and-css-RDFoXDYTWw)
+- Live Site URL: [Frontend Mentor Challenge | Blog preview card](https://vangmanawkairung.github.io/frontend-mentor-blog-preview-card/)
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
+- CSS custom properties (CSS Variables)
 - Flexbox
-- CSS Grid
+- Absolute positioning and media queries
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+- Google Fonts (Figtree)
+- Figma – for design and layout reference
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-
-```js
-const proudOfThisFunc = () => {
-  console.log("🎉");
-};
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+One of my key learnings in this project was working with Figma designs and translating them into a functional web page. This experience helped me practice how to carefully analyze spacing, alignment, colors, and typography in the design, then implement them using semantic HTML and CSS. I also realized how Figma can make the process more efficient, and I gained more confidence in building a responsive layout directly from a design file.
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+In future projects, I want to continue improving my skills in Figma. Currently, I am only using the basic features, and I believe there are many advanced functions that could help speed up my workflow and make the design-to-code process more efficient. My goal is to explore these tools further and integrate them effectively into my development process.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- GitHub: [Kirung Vangmanaw](https://github.com/VangmanawKairung)
+- Frontend Mentor - [@VangmanawKairung](https://www.frontendmentor.io/profile/VangmanawKairunge)
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+I would like to sincerely thank myself for staying persistent and continuing to push forward. A big thank you to the **Frontend Mentor team** for creating this challenge and giving me the opportunity to practice and improve my skills. I am also grateful to **OpenAI** and **Google** for developing **ChatGPT** and **Gemini**, which helped me complete this challenge and explore new techniques. A special thanks to **Figma** for providing an intuitive design tool that made translating designs into code much smoother. Lastly, I want to express my appreciation to every tool, program, and source of encouragement that supported me throughout this process. Without them, completing this challenge successfully would not have been possible.
